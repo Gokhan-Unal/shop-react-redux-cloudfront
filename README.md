@@ -1,5 +1,8 @@
 # React-shop-cloudfront
 
+S3 Links: https://gokhan-shop.s3.eu-central-1.amazonaws.com https://deploywebappstack-deploymentmystorebucket37220951-0kbbijkw0rus.s3.eu-central-1.amazonaws.com
+Cloudfront Links: https://d3him6n7yqooxc.cloudfront.net/  https://d1psre7xuwrpjr.cloudfront.net/
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
