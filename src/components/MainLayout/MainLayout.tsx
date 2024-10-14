@@ -2,8 +2,8 @@ import React from "react";
 import Typography from "@mui/material/Typography";
 import Link from "@mui/material/Link";
 import Container from "@mui/material/Container";
-import Header from "~/components/MainLayout/components/Header";
 import Box from "@mui/material/Box";
+import Header from "./components/Header";
 
 function Copyright() {
   return (
